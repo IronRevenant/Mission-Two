@@ -71,6 +71,6 @@ function updateTotalStats() {
 
 const images = document.querySelectorAll(".list img");
 
-images.forEach((img) => { 
+images.forEach((img) => {
   img.draggable = false;
 });
