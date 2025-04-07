@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #0b0423; /* Background color of the page */
+  background-color: #0b0423;
   color: #fff;
   font-size: 16px;
 }
@@ -16,9 +16,9 @@ body {
   min-height: 100vh;
   display: flex;
   justify-content: center;
-  align-items: flex-start; /* Aligning items at the top */
+  align-items: flex-start; 
   padding: 30px;
-  gap: 40px; /* Space between the containers */
+  gap: 40px; 
 }
 
 #left,
@@ -58,7 +58,7 @@ h2 {
 
 .list:hover {
   background-color: #f50057;
-  transform: scale(1.05); /* Slight zoom effect */
+  transform: scale(1.05); 
 }
 
 .list img {
@@ -69,7 +69,7 @@ h2 {
 }
 
 .list:hover img {
-  transform: scale(1.1); /* Slight zoom effect for images on hover */
+  transform: scale(1.1); 
 }
 
 #right {
